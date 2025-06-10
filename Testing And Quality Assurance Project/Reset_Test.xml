@@ -1,0 +1,12 @@
+<suite name="Suite1" verbose="1">
+    <test name="Regression1_ResetWithValidData">
+        <classes>
+            <class name="TestCases">
+                <methods>
+                    <include name="ResetWithValidData"/>
+                    <include name="ResetWithInValidData"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

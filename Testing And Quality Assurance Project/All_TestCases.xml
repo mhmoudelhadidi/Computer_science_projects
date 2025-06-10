@@ -1,0 +1,16 @@
+<suite name="Suite1" verbose="1">
+    <test name="Regression_Register">
+        <classes>
+            <class name="TestCases">
+                <methods>
+                    <include name="Register"/>
+                    <include name="LoginWithValidData"/>
+                    <include name="LoginWithInValidData"/>
+                    <include name="ResetWithValidData"/>
+                    <include name="ResetWithInvalidData"/>
+                    <include name="AddProductToShoppingCart"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

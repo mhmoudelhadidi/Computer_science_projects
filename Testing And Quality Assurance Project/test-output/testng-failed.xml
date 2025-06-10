@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test thread-count="5" name="Testing And Quality Assurance Project(failed)">
+    <classes>
+      <class name="TestCases">
+        <methods>
+          <include name="OpenBrowser"/>
+          <include name="CloseDriver"/>
+          <include name="LoginWithValidData"/>
+        </methods>
+      </class> <!-- TestCases -->
+    </classes>
+  </test> <!-- Testing And Quality Assurance Project(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

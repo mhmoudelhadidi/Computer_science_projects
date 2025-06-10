@@ -1,0 +1,11 @@
+<suite name="Suite1" verbose="1">
+    <test name="Regression_AddProductToShoppingCart">
+        <classes>
+            <class name="TestCases">
+                <methods>
+                    <include name="AddProductToShoppingCart"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
