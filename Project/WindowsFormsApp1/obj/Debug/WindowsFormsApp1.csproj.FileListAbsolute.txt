@@ -1,0 +1,44 @@
+c:\users\asus\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\asus\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\asus\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\asus\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+c:\users\asus\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\asus\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+c:\users\asus\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\asus\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+c:\users\asus\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\asus\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+Z:\Zzz\SWE 4\1st\DS\Lab\Lab 2\TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+Z:\Zzz\SWE 4\1st\DS\Lab\Lab 2\TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+Z:\Zzz\SWE 4\1st\DS\Lab\Lab 2\TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+Z:\Zzz\SWE 4\1st\DS\Lab\Lab 2\TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+Z:\Zzz\SWE 4\1st\DS\Lab\Lab 2\TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+Z:\Zzz\SWE 4\1st\DS\Lab\Lab 2\TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+Z:\Zzz\SWE 4\1st\DS\Lab\Lab 2\TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Z:\Zzz\SWE 4\1st\DS\Lab\Lab 2\TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+Z:\Zzz\SWE 4\1st\DS\Lab\Lab 2\TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+Z:\Zzz\SWE 4\1st\DS\Lab\Lab 2\TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+Z:\Zzz\SWE 4\1st\DS\Lab\Lab 2\TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+Z:\Zzz\SWE 4\1st\DS\Lab\TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+Z:\Zzz\SWE 4\1st\DS\Lab\TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+Z:\Zzz\SWE 4\1st\DS\Lab\TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+Z:\Zzz\SWE 4\1st\DS\Lab\TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+Z:\Zzz\SWE 4\1st\DS\Lab\TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+Z:\Zzz\SWE 4\1st\DS\Lab\TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+Z:\Zzz\SWE 4\1st\DS\Lab\TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Z:\Zzz\SWE 4\1st\DS\Lab\TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+Z:\Zzz\SWE 4\1st\DS\Lab\TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+Z:\Zzz\SWE 4\1st\DS\Lab\TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+Z:\Zzz\SWE 4\1st\DS\Lab\TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Lenovo\Downloads\Tasks\2 - TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Lenovo\Downloads\Tasks\2 - TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Lenovo\Downloads\Tasks\2 - TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Lenovo\Downloads\Tasks\2 - TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Tasks\2 - TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Lenovo\Downloads\Tasks\2 - TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Lenovo\Downloads\Tasks\2 - TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\Tasks\2 - TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\Tasks\2 - TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Tasks\2 - TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Lenovo\Downloads\Tasks\2 - TCPClientServerChat\ClientServerChatTCP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
